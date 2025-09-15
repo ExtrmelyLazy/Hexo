@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Victoria-blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: Victoria
+language: zh-CN
 timezone: ''
 
 # URL
@@ -102,3 +102,9 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+# Local Search
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
