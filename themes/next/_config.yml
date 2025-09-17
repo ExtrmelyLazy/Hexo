@@ -118,7 +118,7 @@ darkmode: false
 menu:
   home: / || fa fa-home
   about: /about/ || fa fa-user
-  articles: /article/ || fa fa-tags
+  articles: /article/ || fa fa-pencil
   #categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
