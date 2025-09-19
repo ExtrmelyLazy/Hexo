@@ -119,6 +119,7 @@ menu:
   home: / || fa fa-home
   about: /about/ || fa fa-user
   文章: /article/ || fa fa-heartbeat
+  小诗: /poetry/ || fa fa-heartbeat
   #categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
