@@ -87,7 +87,7 @@ footer:
 # CC licenses are available in 39 languages, you can find the specific and correct abbreviation you need on https://creativecommons.org
 creative_commons:
   license: by-nc-sa
-  sidebar: true
+  sidebar: false
   post: false
   language:
 
@@ -119,7 +119,7 @@ menu:
   home: / || fa fa-home
   about: /about/ || fa fa-user
   文章: /article/ || fa fa-heartbeat
-  小诗: /poetry/ || fa fa-heartbeat
+  小诗: /poetry/ || fa fa-pencil
   #categories: /categories/ || fa fa-th
   archives: /dairy/ || fa fa-archive
   #schedule: /schedule/ || fa fa-calendar
@@ -129,6 +129,7 @@ menu:
 # Enable / Disable menu icons / item badges.
 menu_settings:
   icons: true
+  小诗: pencil
   badges: false
 
 
@@ -180,6 +181,7 @@ site_state: true
 social:
   #GitHub: https://github.com/yourname || fab fa-github
   E-Mail: mailto:477522069@qq.com || fa fa-envelope
+  Outlook: mailto:Victoria05161@outlook.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -191,6 +193,8 @@ social:
 
 social_icons:
   enable: false
+  E-mail: envelope
+  Outlook: envelope
   icons_only: false
   transition: false
 
