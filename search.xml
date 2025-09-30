@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>测试</title>
+    <url>/2025/09/30/first/</url>
+    <content><![CDATA[<h1 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h1>]]></content>
+  </entry>
+  <entry>
     <title>WELCOME</title>
-    <url>/2025/09/22/hello-world/</url>
+    <url>/2025/09/30/hello-world/</url>
     <content><![CDATA[<h2 id="这是哪"><a href="#这是哪" class="headerlink" title="这是哪"></a>这是哪</h2><p>这是<em>VICTORIA</em>的个人博客</p>
 <ul>
 <li>记录一些小破事</li>
